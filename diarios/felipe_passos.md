@@ -12,3 +12,14 @@ Ele foi listado no site (https://www.upgrad.com/blog/open-source-projects-for-be
 
 https://github.com/zulip/zulip-terminal/issues/1133#issuecomment-917258352
 
+## 24/10/21
+
++ Submeti o código do Nord Theme que implementei para o Zulip Terminal
+
+O processo de criação do tema foi desafiador pois o Zulip possui muitas variaveis para componentes da interface, e configurá-las para ficar semelhante ao tema foi um trabalho difícil.
+
++ Pull Request: https://github.com/zulip/zulip-terminal/pull/1139
+
++ Issue: https://github.com/zulip/zulip-terminal/issues/1133#issuecomment-917258352
+
+
